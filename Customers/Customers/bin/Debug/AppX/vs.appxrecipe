@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GIVERESPECT</Machine>
+    <WindowsUser>Respect</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>36f8d8ff-f2f0-4058-9106-6b953fb15c69</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C010C0DD9638D213B811A79D0A3162923BF0E17D4238824A38540FEC38A5AA0C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>36f8d8ff-f2f0-4058-9106-6b953fb15c69_1.0.0.0_neutral__0dahbxy6tw1aj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>36f8d8ff-f2f0-4058-9106-6b953fb15c69_0dahbxy6tw1aj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>36f8d8ff-f2f0-4058-9106-6b953fb15c69</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Respect</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-29T09:34:35.923</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\Customers.exe">
+      <PackagePath>Customers.exe</PackagePath>
+      <Modified>2014-10-29T11:55:36.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\Images\bg1.jpg">
+      <PackagePath>Images\bg1.jpg</PackagePath>
+      <Modified>2014-10-29T09:19:25.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-29T09:42:15.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\Appstyle.xbf">
+      <PackagePath>Appstyle.xbf</PackagePath>
+      <Modified>2014-10-29T09:42:15.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-29T11:55:35.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\Customers.xr.xml">
+      <PackagePath>Customers.xr.xml</PackagePath>
+      <Modified>2014-10-29T11:55:35.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Respect\documents\visual studio 2013\Projects\Customers\Customers\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-29T09:34:35.594</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

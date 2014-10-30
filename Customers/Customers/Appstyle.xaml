@@ -1,0 +1,9 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Customers">
+    <ImageBrush x:Key="WoodBrush" ImageSource="Images/bg1.jpg"/>
+    <Style x:Key="GridStyle" TargetType="Grid">
+        <Setter Property="Background" Value="{StaticResource WoodBrush}"/>
+    </Style>
+</ResourceDictionary>
